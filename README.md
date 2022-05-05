@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sahil-Bagdi
+- 👀 I’m interested in all the codes
+- 🌱 I’m currently learning web developent
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me - sahilbagdi.dev200@gmail.com
